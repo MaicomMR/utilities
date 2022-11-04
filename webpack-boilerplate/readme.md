@@ -1,2 +1,4 @@
 Install packages
-`npm i --save-dev @babel/preset-env @babel/cli @babel/core babel-loader webpack webpack-cli regenerator-runtime core-js@2`
+`npm i --save-dev @babel/preset-env @babel/cli @babel/core babel-loader webpack webpack-cli`
+
+`npm i regenerator-runtime core-js`
