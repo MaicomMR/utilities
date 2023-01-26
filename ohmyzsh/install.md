@@ -13,5 +13,5 @@
 `./install.sh`
 
 ## 3. Change Theme
-`$ open ~/.zshrc`
+`sudo nano ~/.zshrc`
 Set `ZSH_THEME="agnoster"` and save the file
